@@ -1,0 +1,25 @@
+{
+  "name": "SMILE COLLECTION",
+  "short_name": "Smile Collection",
+  "description": "Elegant fashion, jewellery, burqa, hijab and accessories shop.",
+  "start_url": "/SMILE_COLLECTION/",
+  "scope": "/SMILE_COLLECTION/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/SMILE_COLLECTION/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/SMILE_COLLECTION/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
